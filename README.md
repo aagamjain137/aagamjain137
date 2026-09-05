@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/GitHub-aagamjain137-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/aagamjain137">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -216,7 +216,7 @@ A collection of my DSA practice and problem-solving solutions.
 <img src="https://img.shields.io/badge/GitHub-aagamjain137-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/aagamjain137">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
