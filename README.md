@@ -145,8 +145,10 @@
 ## 🏆 LeetCode Badges
 
 <p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=aagamjain137" 
-       alt="LeetCode Badges" />
+  <img
+    src="https://leetcode-badge-showcase.vercel.app/api?username=aagamjain137&anon=true&theme=tokyonight&border=no-border"
+    alt="LeetCode Badges"
+  />
 </p>
 
 <div align="center">
