@@ -142,6 +142,12 @@
 </table>
 
 <br />
+## 🏆 LeetCode Badges
+
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=https://leetcode.com/u/aagamjain137/" 
+       alt="LeetCode Badges" />
+</p>
 
 <div align="center">
   <a href="https://github.com/aagamjain137/DSA" target="_blank">
@@ -280,6 +286,9 @@
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aagamjain137" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/aagamjain137/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="mailto:aagam02jain@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
