@@ -146,7 +146,7 @@
 
 <p align="center">
   <img
-    src="https://leetcode-badge-showcase.vercel.app/api?username=aagamjain137&anon=true&theme=tokyonight&border=no-border"
+    src="https://leetcode-badge-showcase.vercel.app/api?username=aagamjain137&anon=true&theme=tokyonight&border=no-border&v=2"
     alt="LeetCode Badges"
   />
 </p>
